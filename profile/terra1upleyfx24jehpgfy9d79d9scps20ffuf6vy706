@@ -1,0 +1,11 @@
+{
+ “user”: {
+   “email”: “”,
+   “name”: “Ray”,
+   “social”: {
+     “discord”: “Discord#123”,
+     “telegram”: “@TGAcct”,
+     “twitter”: “@Twitter”,
+     “keybase”: “KeybaseUser”
+   }
+ }}
