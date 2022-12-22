@@ -1,11 +1,16 @@
-{ 
- "profile": {
-   "name": "Jose Bajamala",
-   "address": "terra1upleyfx24jehpgfy9d79d9scps20ffuf6vy706",
-   "social": {
-     "email": "ceo@downbad.com",
-     "instagram": "instagra",
-     "keybase": "bobsmith"
-   }
+ { 
+  "profile": {
+    "name": "Jose Bajamala",
+    "address": "terra1upleyfx24jehpgfy9d79d9scps20ffuf6vy706",
+    "platform_preference": "twitter",
+    "platforms": {
+      "email": "ceo@downbad.com",
+      "keybase": "bobsmith",
+      "instagram": "instagra",
+      "twitter": "mytwitter",
+      "discord": "user#1234",
+      "telegram": "userTg",
+      "github": "octoBoss"
+    }
+  }
  }
-}
