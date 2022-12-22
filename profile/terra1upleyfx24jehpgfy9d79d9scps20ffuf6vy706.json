@@ -1,13 +1,11 @@
- {
- “user”: {
-   “email”: “ceo@downbad.com”,
-   “name”: “Jose Bajamala”,
-   "address": "terra1upleyfx24jehpgfy9d79d9scps20ffuf6vy706",
-   “social”: {
-     “discord”: “Jose#123”,
-     “telegram”: “@JDB”,
-     “twitter”: “@JDB1”,
-     “keybase”: “JDB”,
-     "instragram": "@lkadf"
+{ 
+ "profile": {
+   "name": "Jose Bajamala",
+   "address": "terraxSomething",
+   "social": {
+     "email": "ceo@downbad.com",
+     "instagram": "instagra",
+     "keybase": "bobsmith"
    }
- }}
+ }
+}
