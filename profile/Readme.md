@@ -5,17 +5,20 @@ Create or Upload a file named:
 
 
 ```
-{
- “user”: {
-   “email”: “ceo@downbad.com”,
-   “name”: “Jose Bajamala”,
-   "address": "terra1upleyfx24jehpgfy9d79d9scps20ffuf6vy706",
-   “social”: {
-     “discord”: “Jose#123”,
-     “telegram”: “@JDB”,
-     “twitter”: “@JDB1”,
-     “keybase”: “JDB”
-   }
+ { 
+  "profile": {
+    "name": "Jose Bajamala",
+    "address": "terraxSomething",
+    "platform_preference": "twitter",
+    "platforms": {
+      "email": "ceo@downbad.com",
+      "keybase": "bobsmith",
+      "instagram": "instagra",
+      "twitter": "mytwitter",
+      "discord": "user#1234",
+      "telegram": "userTg",
+      "github": "octoBoss"
+    }
   }
-}
+ }
 ```
