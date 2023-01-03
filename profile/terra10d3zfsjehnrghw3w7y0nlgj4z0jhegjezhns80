@@ -1,0 +1,16 @@
+ { 
+  "profile": {
+    "name": 0x0000",
+    "address": "terra10d3zfsjehnrghw3w7y0nlgj4z0jhegjezhns80",
+    "platform_preference": "twitter",
+    "platforms": {
+      "email": "root@localhost",
+      "keybase": "bobsmith",
+      "instagram": "instagra",
+      "twitter": "mytwitter",
+      "discord": "user#1234",
+      "telegram": "userTg",
+      "github": "octoBoss"
+    }
+  }
+ }
