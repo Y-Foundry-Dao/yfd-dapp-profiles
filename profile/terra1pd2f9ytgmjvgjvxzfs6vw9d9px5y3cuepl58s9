@@ -1,0 +1,16 @@
+ { 
+  "profile": {
+    "name": "Paul",
+    "address": "terra1pd2f9ytgmjvgjvxzfs6vw9d9px5y3cuepl58s9",
+    "platform_preference": "twitter",
+    "platforms": {
+      "email": "",
+      "keybase": "",
+      "instagram": "",
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "github": ""
+    }
+  }
+ }
