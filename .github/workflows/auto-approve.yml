@@ -14,3 +14,11 @@ jobs:
       - uses: hmarr/auto-approve-action@v3
         with:
           review-message: "You have been auto-approved"
+      - uses: reitermarkus/automerge@v2
+        with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          merge-method: rebase
+          do-not-merge-labels: never-merge
+          required-labels: automerge
+          pull-request: ${{ github.event.inputs.pull-request }}
+          dry-run: true
