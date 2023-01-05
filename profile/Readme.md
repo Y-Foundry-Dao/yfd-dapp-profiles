@@ -5,20 +5,25 @@ Create or Upload a file named:
 
 
 ```
- { 
-  "profile": {
-    "name": "Jose Bajamala",
-    "address": "terraxSomething",
-    "platform_preference": "twitter",
-    "platforms": {
-      "email": "ceo@downbad.com",
-      "keybase": "bobsmith",
-      "instagram": "instagra",
-      "twitter": "mytwitter",
-      "discord": "user#1234",
-      "telegram": "userTg",
-      "github": "octoBoss"
-    }
-  }
+ {
+ 	"profile": {
+ 		"name": "FoundryBot Zero",
+ 		"address": "terra100000000000000000000000000000000000000",
+ 		"platform_preference": "twitter",
+ 		"platforms": {
+ 			"email": "foundrybotzero@gmail.com",
+ 			"keybase": "foundrybotZero",
+ 			"instagram": "foundryselfie",
+ 			"twitter": "mytwitter",
+ 			"discord": "user#1234",
+ 			"telegram": "foundrybot",
+ 			"github": "foundrybotZero"
+ 		}
+ 	},
+ 	"config": {
+ 		"yfd": {
+ 			"snow": false
+ 		}
+ 	}
  }
 ```
