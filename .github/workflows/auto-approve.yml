@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+    pull_request_target:
+      branches:
+        - main
+      types:
+        - opened
     steps:
       - uses: hmarr/auto-approve-action@v3
         with:
